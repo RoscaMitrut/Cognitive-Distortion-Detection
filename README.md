@@ -1,5 +1,7 @@
 # Cognitive Distortion detection
 
+## TODO: Rerun notebooks
+
 ## Objective
 
 The project aims to develop a system that can automatically detect cognitive distortions in conversations between patients and therapists. Cognitive distortions are irrational or biased ways of thinking that can contribute to negative emotions and behaviors.
